@@ -1,0 +1,2 @@
+# ExampleCoin
+ Understanding/Coding blockchain 
