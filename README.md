@@ -1,2 +1,2 @@
 # ExampleCoin
- Understanding/Coding blockchain 
+ Coding a very simple blockchain to better understand how cryptocurrencies work 
